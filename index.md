@@ -1,6 +1,6 @@
 ## Bienvenue sur le site de Hugo Brugeat
-
-You can use the [editor on GitHub](https://github.com/troupe50/Siteperso/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Mon parcours
+2017 – 2018 › LICENCE PROFESSIONNELLE EN MANAGEMENT DE GESTION DE PROJET INFORMATIQUE ET COMMERCIALE
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

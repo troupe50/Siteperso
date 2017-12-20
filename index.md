@@ -1,8 +1,8 @@
 ## Bienvenue sur le site de Hugo Brugeat
 ### Mon parcours
-2017 – 2018 › LICENCE PROFESSIONNELLE EN MANAGEMENT DE GESTION DE PROJET INFORMATIQUE ET COMMERCIALE
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_2017 – 2018_ › LICENCE PROFESSIONNELLE EN MANAGEMENT DE GESTION DE PROJET INFORMATIQUE ET COMMERCIALE › IUT / LANNION
+2015 – 2017 › DUT TECHNIQUE DE COMMERCIALISATION › IUT / CHERBOURG
+2012 – 2015 › BACCALAURÉAT ES › LYCÉE LE VERRIER/ SAINT-LÔ
 
 ### Markdown
 
